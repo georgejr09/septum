@@ -5,6 +5,9 @@
 # Ada Library Information
 *.ali
 
+# Mac attributes
+.DS_Store
+
 # Alire things
 lib/
 alire/
